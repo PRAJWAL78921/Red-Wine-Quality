@@ -1,4 +1,4 @@
-# Wine Quality Prediction
+# Red Wine Quality Prediction
 
 ## Project Overview
 This project aims to predict the quality of red wine based on various chemical properties such as acidity, citric acid content, sugar levels, and more.  
